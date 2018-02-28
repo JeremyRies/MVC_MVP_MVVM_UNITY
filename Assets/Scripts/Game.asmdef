@@ -1,0 +1,10 @@
+{
+    "name": "Game",
+    "references": [
+        "Plugins"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

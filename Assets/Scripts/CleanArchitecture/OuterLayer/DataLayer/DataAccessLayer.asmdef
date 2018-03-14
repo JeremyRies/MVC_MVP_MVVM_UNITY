@@ -1,0 +1,11 @@
+{
+    "name": "DataAccessLayer",
+    "references": [
+        "Entity",
+        "UseCaseLayer"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

@@ -1,0 +1,11 @@
+{
+    "name": "UseCaseLayer",
+    "references": [
+        "Entity",
+        "Plugins"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

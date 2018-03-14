@@ -1,0 +1,12 @@
+{
+    "name": "ViewLayer",
+    "references": [
+        "UseCaseLayer",
+        "Entity",
+        "Plugins"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
